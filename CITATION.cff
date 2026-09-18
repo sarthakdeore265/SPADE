@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use SPADE, please cite the paper."
+title: "SPADE: Evaluating Machine Learning Models for Malicious Prompt Detection"
+authors:
+  - family-names: Deore
+    given-names: Sarthak
+    affiliation: NMIMS
+    email: sarthakdeore265@gmail.com
+year: 2026
+type: software
+url: "https://github.com/sarthakdeore265/SPADE"
+repository-code: "https://github.com/sarthakdeore265/SPADE"
+license: MIT
+keywords:
+  - malicious prompt detection
+  - prompt injection
+  - jailbreak detection
+  - dataset quality
+  - evaluation metrics
+  - class imbalance
+  - transformer baselines

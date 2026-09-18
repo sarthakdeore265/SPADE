@@ -1,0 +1,6 @@
+weights,auprc,f1,recall@1%fpr
+balance_heavy,1.0,0.7,0.0
+baseline,1.0,0.7,0.0
+diversity_heavy,1.0,0.7,0.0
+reliability_heavy,1.0,0.7,0.0
+uniform,0.6,0.9,-0.4
